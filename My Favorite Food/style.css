@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.Waffle{
+    height: 510px;
+    width: 510px;
+    padding-left: 50px;
+}
+.ayala{
+    height: 510px;
+    width: 510px;
+    padding-right: 50px;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+img:hover {
+    transform: scale(0.9); 
+}
